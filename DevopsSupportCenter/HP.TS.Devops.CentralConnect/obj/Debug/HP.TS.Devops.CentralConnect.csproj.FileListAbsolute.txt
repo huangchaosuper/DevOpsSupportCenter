@@ -1,0 +1,15 @@
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect\bin\Debug\HP.TS.Devops.CentralConnect.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect\bin\Debug\HP.TS.Devops.CentralConnect.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect\bin\Debug\HP.TS.Devops.CentralConnect.Plugin.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect\bin\Debug\HP.TS.Devops.Core.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect\bin\Debug\HP.TS.Devops.Customer.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect\bin\Debug\HP.TS.Devops.Dictionary.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect\bin\Debug\HP.TS.Devops.CentralConnect.Plugin.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect\bin\Debug\HP.TS.Devops.Core.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect\bin\Debug\HP.TS.Devops.Customer.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect\bin\Debug\HP.TS.Devops.Dictionary.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect\obj\Debug\HP.TS.Devops.CentralConnect.csprojResolveAssemblyReference.cache
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect\obj\Debug\HP.TS.Devops.CentralConnect.Templates.resources
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect\obj\Debug\HP.TS.Devops.CentralConnect.csproj.GenerateResource.Cache
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect\obj\Debug\HP.TS.Devops.CentralConnect.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect\obj\Debug\HP.TS.Devops.CentralConnect.pdb

@@ -1,0 +1,5 @@
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.STaTsBridge\bin\Debug\HP.TS.Devops.STaTsBridge.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.STaTsBridge\bin\Debug\HP.TS.Devops.STaTsBridge.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.STaTsBridge\obj\Debug\HP.TS.Devops.STaTsBridge.csprojResolveAssemblyReference.cache
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.STaTsBridge\obj\Debug\HP.TS.Devops.STaTsBridge.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.STaTsBridge\obj\Debug\HP.TS.Devops.STaTsBridge.pdb

@@ -1,0 +1,7 @@
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Dictionary\bin\Debug\HP.TS.Devops.Dictionary.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Dictionary\bin\Debug\HP.TS.Devops.Dictionary.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Dictionary\bin\Debug\HP.TS.Devops.Core.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Dictionary\bin\Debug\HP.TS.Devops.Core.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Dictionary\obj\Debug\HP.TS.Devops.Dictionary.csprojResolveAssemblyReference.cache
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Dictionary\obj\Debug\HP.TS.Devops.Dictionary.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Dictionary\obj\Debug\HP.TS.Devops.Dictionary.pdb

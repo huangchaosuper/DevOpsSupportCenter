@@ -1,0 +1,58 @@
+﻿
+<isee:OOS-Metrics schemaVersion="5.00" xmlns:cim="http://schemas.dmtf.org/wsman/2004/10/base" xmlns:hpcim="http://www.hp.com/schemas/cim/2.9" xmlns:isee="http://www.hp.com/schemas/isee/5.00/metrics" xmlns:rsps="http://www.hp.com/schemas/rsps/5.00" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <LDID state="updated">{0}</LDID>
+  <AssociatedDevice role="Hosting Device">
+    <ObjectOfServiceProperties>
+      <Property name="Transport_Enabled" value="1"/>
+      <Property name="Active_Status" value="1"/> 
+      <Property name="Registration_Date" value=""/>
+      <Property name="CPServiceProviderID" value="{1}"/>
+      <Property name="CPSupportProviderID" value="{2}"/>
+      <Property name="ServiceHealth.Monitoring" value="0"/>
+      <Property name="Service::Server_Basic_Configuration_Collection::DisplayColumn" value="Basic_Collection"/>
+      <Property name="Service::Server_Basic_Configuration_Collection::functional" value="{3}"/>
+      <Property name="Service::Server_Basic_Configuration_Collection::eligible" value="true"/>
+      <Property name="Service::Server_Basic_Configuration_Collection::entitled" value="true"/>
+      <Property name="Service::Server_Basic_Configuration_Collection::enabled" value="true"/>
+      <Property name="Service::Query Connection::DisplayColumn" value="Monitoring"/>
+      <Property name="Service::Query Connection::functional" value="{4}"/>
+      <Property name="Service::Query Connection::eligible" value="true"/>
+      <Property name="Service::Query Connection::entitled" value="true"/>
+      <Property name="Service::Query Connection::enabled" value="true"/>
+      <Property name="Service::Subscription Manager::DisplayColumn" value="Monitoring"/>
+      <Property name="Service::Subscription Manager::functional" value="{5}"/>
+      <Property name="Service::Subscription Manager::eligible" value="true"/>
+      <Property name="Service::Subscription Manager::entitled" value="true"/>
+      <Property name="Service::Subscription Manager::enabled" value="true"/>
+    </ObjectOfServiceProperties>
+    <PRS_Address>
+      <AddressType>0</AddressType>
+      <Address1>{6}</Address1>
+      <Address2></Address2>
+      <Address3></Address3>
+      <Address4></Address4>
+      <City>{7}</City>
+      <Region>{8}</Region>
+      <PostalCode>{9}</PostalCode>
+      <TimeZone>GMT</TimeZone>
+      <Country>{10}</Country>
+    </PRS_Address>
+	{11}
+	<HP_OOSIdentifiers>
+	  {12}
+	</HP_OOSIdentifiers>
+	<HP_ISEEEntitlementParameters>
+      <EntitlementType></EntitlementType>
+      <EntitlementId></EntitlementId>
+      <SerialNumber>{13}</SerialNumber>
+      <ProductNumber>{14}</ProductNumber>
+      <ProductId>{15}</ProductId>
+      <ObligationId></ObligationId>
+    </HP_ISEEEntitlementParameters>
+  </AssociatedDevice>
+  <HP_ISEECustomer>
+    <Business/>
+    <Name>{16}</Name>
+  </HP_ISEECustomer>
+  <OOS_Support/>
+</isee:OOS-Metrics>

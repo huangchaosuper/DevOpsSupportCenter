@@ -1,0 +1,5 @@
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.DirectConnect\bin\Debug\HP.TS.Devops.DirectConnect.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.DirectConnect\bin\Debug\HP.TS.Devops.DirectConnect.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.DirectConnect\obj\Debug\HP.TS.Devops.DirectConnect.csprojResolveAssemblyReference.cache
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.DirectConnect\obj\Debug\HP.TS.Devops.DirectConnect.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.DirectConnect\obj\Debug\HP.TS.Devops.DirectConnect.pdb

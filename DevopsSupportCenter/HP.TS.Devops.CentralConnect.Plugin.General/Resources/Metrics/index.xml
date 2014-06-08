@@ -1,0 +1,199 @@
+﻿<isee:ISEE-Metrics schemaVersion="5.00" xmlns:cim="http://schemas.dmtf.org/wsman/2004/10/base" xmlns:hpcim="http://www.hp.com/schemas/cim/2.9" xmlns:isee="http://www.hp.com/schemas/isee/5.00/metrics" xmlns:rsps="http://www.hp.com/schemas/rsps/5.00" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <DeploymentModel>CMS</DeploymentModel>
+
+  <InstallationCompany>TDUI Team Inc</InstallationCompany>
+
+  <ServiceProviderID></ServiceProviderID>
+
+  <ServiceProviderName></ServiceProviderName>
+
+  <DataPackageGUID>894979BD-BCC4-4031-85CD-B2DA48FB9106</DataPackageGUID>
+
+  <AssociatedDevice role="ISEEClient">
+    <ObjectOfServiceProperties>
+      <Property name="DeploymentType" value="hpsim"/>
+      <Property name="CriticalCMS" value="false"/>
+      <Property name="override.EnvironmentalContract_MCP" value="false"/>
+    </ObjectOfServiceProperties>
+    <PRS_Address>
+      <AddressType>0</AddressType>
+      <Address1></Address1>
+      <Address2/>
+      <Address3/>
+      <Address4/>
+      <City></City>
+      <Region/>
+      <PostalCode></PostalCode>
+      <TimeZone>GMT</TimeZone>
+      <Country></Country>
+    </PRS_Address>
+    <HP_ISEEPerson>
+      <CommunicationMode>255</CommunicationMode>
+      <ContactType>Customer_Account</ContactType>
+      <FirstName>{{PrimaryFirstName}}</FirstName>
+      <LastName>{{PrimaryLastName}}</LastName>
+      <Salutation />
+      <Title />
+      <EmailAddress>{{PrimaryEmailAddress}}</EmailAddress>
+      <TelephoneNumber>{{PrimaryPhone}}</TelephoneNumber>
+      <PreferredLanguage />
+      <Availability />
+      <Property name="additionalContact1" value="" />
+      <Property name="additionalContact2" value="" />
+      <Property name="additionalContact3" value="" />
+      <Property name="data_privacy_opt_in" value="true" />
+    </HP_ISEEPerson>
+    <HP_ISEEPerson>
+      <CommunicationMode>255</CommunicationMode>
+      <ContactType>Cust_Secondary_Acct</ContactType>
+      <FirstName>{{SecondaryFirstName}}</FirstName>
+      <LastName>{{SecondaryLastName}}</LastName>
+      <Salutation />
+      <Title />
+      <EmailAddress>{{SecondaryEmailAddress}}</EmailAddress>
+      <TelephoneNumber>{{SecondaryPhone}}</TelephoneNumber>
+      <PreferredLanguage />
+      <Availability />
+      <Property name="additionalContact1" value="" />
+      <Property name="additionalContact2" value="" />
+      <Property name="additionalContact3" value="" />
+      <Property name="data_privacy_opt_in" value="true" />
+    </HP_ISEEPerson>
+    <HP_OOSIdentifiers>
+      <OSID>
+        <Section name="NETWORK_INTERFACE_IDENTIFIERS">
+          <Property name="InterfaceName" value="{368CF471-222E-48BA-947D-1A24FBE3E81D}"/>
+          <Property name="InterfaceDescription" value="HP NC362i Integrated DP Gigabit Server Adapter #2"/>
+          <Property name="InterfaceMacAddress" value="441EA153819F"/>
+          <Property name="InterfaceIPAddress" value="172.20.1.120"/>
+          <Property name="InterfaceIsDynamic" value="0"/>
+        </Section>
+        <Section name="SYSTEM_IDENTIFIERS">
+          <Property name="CollectorType" value="MC3"/>
+          <Property name="CollectorVersion" value="T05.60.8 build 1"/>
+          <Property name="SAID" value=""/>
+          <Property name="EntitlementType" value=""/>
+          <Property name="ObligationId" value=""/>
+          <Property name="ArbitrationString" value=""/>
+          <Property name="UserApprovedSystemSerialNumber" value=""/>
+          <Property name="AutoDetectedSystemSerialNumber" value="CZJ1460C4Q"/>
+          <Property name="SystemIdent" value="S-1-5-21-1570522517-3372667891-865153690"/>
+          <Property name="SystemModel" value="HP ProLiant DL180 G6"/>
+          <Property name="CoreSystemModel" value="ProLiant DL180 G6"/>
+          <Property name="Manufacturer" value="HP"/>
+          <Property name="HPID" value="-1"/>
+          <Property name="SPID" value="-1"/>
+          <Property name="ISEEGUID" value=""/>
+          <Property name="GUID" value="a8e1f214-5950-11e1-a1fa-441ea153819f"/>
+          <Property name="Hostname" value="nrcv01"/>
+          <Property name="FQDN" value="NRCV01.nr.local"/>
+          <Property name="MacAddress" value="441EA153819F0000"/>
+          <Property name="IPAddress" value="172.20.1.120"/>
+          <Property name="ClusterAlias" value=""/>
+          <Property name="ProductId" value=""/>
+          <Property name="UserApprovedProductId" value=""/>
+          <Property name="TimestampGenerated" value="2012/02/17 10:17:57 GMT"/>
+          <Property name="MC3Version" value="T05.60.8 build 1"/>
+          <Property name="OSNameAndVersionString" value="Microsoft Windows Server 2008 R2 Standard  ( Build 7601 : Service Pack 1 )"/>
+        </Section>
+      </OSID>
+      {{CSID}}
+    </HP_OOSIdentifiers>
+    <HP_ISEEEntitlementParameters>
+      <EntitlementType></EntitlementType>
+      <EntitlementId></EntitlementId>
+      <SerialNumber></SerialNumber>
+      <ProductNumber></ProductNumber>
+      <ProductId></ProductId>
+      <ObligationId></ObligationId>
+    </HP_ISEEEntitlementParameters>
+    <CIM_SoftwareFeature>
+      <Caption> Remote Support Client A.05.70</Caption>
+      <Description>The Remote Support Client enables secure outbound initiated communication with HP to then deliver event and configuration information to HP for analysis and proactive services. The RS Client provides unique case IDs and updated incident status.  It is also required by HP SIM 5.2 or later to enable the contract and warranty feature.</Description>
+      <InstallDate>2012-06-20T14:28:03+02:00</InstallDate>
+      <Name>CM_GL_ISEECLIENTCMS_WIN</Name>
+      <StatusDescriptors>Installed</StatusDescriptors>
+      <IdentifyingNumber/>
+      <ProductName>CM_GL_ISEECLIENTCMS_WIN</ProductName>
+      <Vendor>Hewlett-Packard</Vendor>
+      <Version> A.05.70.05</Version>
+    </CIM_SoftwareFeature>
+    <CIM_SoftwareFeature>
+      <Caption> Remote Support Common Components (MC3) A.05.60</Caption>
+      <Description>Allows all remote support components on the Central Management Server (CMS) to share common information (e.g. contact, name and telephone information.)</Description>
+      <InstallDate>2012-06-20T14:45:23+02:00</InstallDate>
+      <Name>CM_GL_MC3-CMS_WIN</Name>
+      <StatusDescriptors>Installed</StatusDescriptors>
+      <IdentifyingNumber/>
+      <ProductName>CM_GL_MC3-CMS_WIN</ProductName>
+      <Vendor>Hewlett-Packard</Vendor>
+      <Version> A.05.60.08</Version>
+    </CIM_SoftwareFeature>
+    <CIM_SoftwareFeature>
+      <Caption> Insight Remote Support Advanced Release Notes A.05.70 (October </Caption>
+      <Description>File containing updated information on Remote Support Pack software releases</Description>
+      <InstallDate>2012-04-07T03:14:33+02:00</InstallDate>
+      <Name>CM_GL_RELNOTES-CMS_WIN</Name>
+      <StatusDescriptors>Installed</StatusDescriptors>
+      <IdentifyingNumber/>
+      <ProductName>CM_GL_RELNOTES-CMS_WIN</ProductName>
+      <Vendor>Hewlett-Packard</Vendor>
+      <Version> A.05.70</Version>
+    </CIM_SoftwareFeature>
+    <CIM_SoftwareFeature>
+      <Caption> Remote Support Configuration Collector (RSCC) A.05.70.06.011</Caption>
+      <Description>This component schedules and consolidates configuration information collections from systems entitled to proactive services. Collections may come directly from a managed system or via the Advanced Configuration Collector installed on the manages system. The RSCC is updated regularly to extend support for new products.</Description>
+      <InstallDate>2012-04-07T03:05:22+02:00</InstallDate>
+      <Name>CM_GL_RSCC-CMS_WIN</Name>
+      <StatusDescriptors>Installed</StatusDescriptors>
+      <IdentifyingNumber/>
+      <ProductName>CM_GL_RSCC-CMS_WIN</ProductName>
+      <Vendor>Hewlett-Packard</Vendor>
+      <Version> A.05.70.06.011</Version>
+    </CIM_SoftwareFeature>
+    <CIM_SoftwareFeature>
+      <Caption> Remote Support Configuration Collector Extension (RSCCE) A.05.6</Caption>
+      <Description>Supplements the collection of configuration information from SANs with network devices as well. Note, either collection can operate independently.</Description>
+      <InstallDate>2012-04-07T02:42:43+02:00</InstallDate>
+      <Name>CM_GL_RSCCE_WIN</Name>
+      <StatusDescriptors>Installed</StatusDescriptors>
+      <IdentifyingNumber/>
+      <ProductName>CM_GL_RSCCE_WIN</ProductName>
+      <Vendor>Hewlett-Packard</Vendor>
+      <Version> A.05.60.00</Version>
+    </CIM_SoftwareFeature>
+    <CIM_SoftwareFeature>
+      <Caption> Remote Support Eligible Systems List A.05.70.01</Caption>
+      <Description>This component identifies devices that are eligible for remote support services. It is recommended that you configure this component for automatic download and install to add new device support for these services automatically.</Description>
+      <InstallDate>2012-04-07T02:34:18+02:00</InstallDate>
+      <Name>CM_GL_RSEL-CMS_WIN</Name>
+      <StatusDescriptors>Installed</StatusDescriptors>
+      <IdentifyingNumber/>
+      <ProductName>CM_GL_RSEL-CMS_WIN</ProductName>
+      <Vendor>Hewlett-Packard</Vendor>
+      <Version> A.05.70.01</Version>
+    </CIM_SoftwareFeature>
+    <CIM_SoftwareFeature>
+      <Caption> Web-Based Enterprise Services (WEBES) v6.3</Caption>
+      <Description>Designed to perform real-time service event analysis through product specific rule sets. To take advantage of the most current rule sets and new product support, we recommend that you set WEBES to automatic download and install to maximize  product coverage and benefits from the latest analysis engine features.</Description>
+      <InstallDate>2012-04-07T02:32:52+02:00</InstallDate>
+      <Name>CM_GL_WEBES-CMS_WIN</Name>
+      <StatusDescriptors>Installed</StatusDescriptors>
+      <IdentifyingNumber/>
+      <ProductName>CM_GL_WEBES-CMS_WIN</ProductName>
+      <Vendor>Hewlett-Packard</Vendor>
+      <Version> 6.3</Version>
+    </CIM_SoftwareFeature>
+  </AssociatedDevice>
+  <HP_ISEECustomer>
+    <Business/>
+    <Name></Name>
+  </HP_ISEECustomer>
+
+  <OOS_Support>
+    <Property action="ISEE" name="Business" value="ISEE"/>
+    <Property action="ISEE" name="MetricsTime" value="2012-09-06T14:44:44Z"/>
+  </OOS_Support>
+
+</isee:ISEE-Metrics>

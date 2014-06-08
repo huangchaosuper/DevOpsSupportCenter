@@ -1,0 +1,7 @@
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Customer\bin\Debug\HP.TS.Devops.Customer.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Customer\bin\Debug\HP.TS.Devops.Customer.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Customer\bin\Debug\HP.TS.Devops.Core.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Customer\bin\Debug\HP.TS.Devops.Core.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Customer\obj\Debug\HP.TS.Devops.Customer.csprojResolveAssemblyReference.cache
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Customer\obj\Debug\HP.TS.Devops.Customer.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Customer\obj\Debug\HP.TS.Devops.Customer.pdb

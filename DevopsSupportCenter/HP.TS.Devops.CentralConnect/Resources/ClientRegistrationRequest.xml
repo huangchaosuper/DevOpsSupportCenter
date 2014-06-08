@@ -1,0 +1,146 @@
+﻿<isee:ISEE-Registration xmlns:isee="http://www.hp.com/schemas/isee/5.00/event">
+  <RegistrationSource>
+    <HP_OOSIdentifiers>
+      <CSID>
+        <Section name="SYSTEM_IDENTIFIERS">
+          <Property name="TimestampGenerated" value="{0}"/>
+          <Property name="CoreSystemModel" value="{1}"/>
+          <Property name="UserApprovedSystemSerialNumber" value="{2}"/>
+          <Property name="AutoDetectedSystemSerialNumber" value="{3}"/>
+          <Property name="CollectorVersion" value="V6.3 (Build 130)"/>
+          <Property name="UserApprovedProductId" value="{4}"/>
+          <Property name="ProductId" value="{5}"/>
+          <Property name="CollectorType" value="{6}"/>
+          <Property name="Manufacturer" value="HP"/>
+          <Property name="SPID" value="-1"/>
+          <Property name="GDIDSIDSchemaVersion" value="1.2"/>
+          <Property name="CollectorSource" value=""/>
+          <Property name="HPID" value="-1"/>
+          <Property name="SystemIdent" value="{7}"/>
+          <Property name="FQDN" value="{8}"/>
+          <Property name="Hostname" value="{9}"/>
+          <Property name="OSNameAndVersionString" value="{10}"/>
+          <Property name="SystemModel" value="{1}"/>
+          <Property name="MacAddress" value="{13}"/>
+          <Property name="IPAddress" value="{14}"/>
+          <Property name="GUID" value="{15}"/>
+        </Section>
+        <Section name="NETWORK_INTERFACE_IDENTIFIERS">
+          <Property name="InterfaceName" value="297e9330-446b-4f69-a674-7214df330243"/>
+          <Property name="InterfaceDescription" value="eth0"/>
+          <Property name="InterfaceMacAddress" value="{13}"/>
+          <Property name="InterfaceIPAddress" value="{14}"/>
+          <Property name="InterfaceIsDynamic" value="0"/>
+        </Section>
+      </CSID>
+    </HP_OOSIdentifiers>
+    <HP_ISEEEntitlementParameters type="X" priority="0">
+      <EntitlementType>{64}</EntitlementType>
+      <EntitlementId>{65}</EntitlementId>
+      <SerialNumber>{66}</SerialNumber>
+      <ProductNumber>{67}</ProductNumber>
+      <ProductId>{68}</ProductId>
+      <ObligationId>{69}</ObligationId>
+    </HP_ISEEEntitlementParameters>
+    <PRS_Address>
+      <Caption>{27}</Caption>
+      <Description>{24}</Description>
+      <ElementName>{25}</ElementName>
+      <DirtyFlag>{26}</DirtyFlag>
+      <PRSUniqueName>{27}</PRSUniqueName>
+      <AddressType>{28}</AddressType>
+      <Address1>{29}</Address1>
+      <Address2>{30}</Address2>
+      <Address3>{31}</Address3>
+      <Address4>{32}</Address4>
+      <City>{33}</City>
+      <Region>{34}</Region>
+      <PostalCode>{35}</PostalCode>
+      <TimeZone>{36}</TimeZone>
+      <Country>{37}</Country>
+    </PRS_Address>
+    <AddressProperties>
+      <Property name="X" value="X" />
+      <Property name="X" value="X" />
+    </AddressProperties>
+    <CIM_SoftwareFeature>
+      <Caption>{49}</Caption>
+      <Description>{50}</Description>
+      <ElementName>{51}</ElementName>
+      <InstallDate>{52}</InstallDate>
+      <Name>{53}</Name>
+      <OperationalStatus>{54}</OperationalStatus>
+      <OperationalStatus>{55}</OperationalStatus>
+      <OperationalStatus>{56}</OperationalStatus>
+      <StatusDescriptors>{57}</StatusDescriptors>
+      <StatusDescriptors>{58}</StatusDescriptors>
+      <StatusDescriptors>{59}</StatusDescriptors>
+      <IdentifyingNumber>{60}</IdentifyingNumber>
+      <ProductName>{61}</ProductName>
+      <Vendor>{62}</Vendor>
+      <Version>{63}</Version>
+    </CIM_SoftwareFeature>
+  </RegistrationSource>
+  <HP_ISEECustomer>
+    <Caption>{38}</Caption>
+    <Description>{39}</Description>
+    <ElementName>{40}</ElementName>
+    <DirtyFlag>{41}</DirtyFlag>
+    <PRSUniqueName>{42}</PRSUniqueName>
+    <Business>{43}</Business>
+    <Name>{44}</Name>
+    <ExternalReferenceSystem>{45}</ExternalReferenceSystem>
+    <ExternalReferenceSystem>{46}</ExternalReferenceSystem>
+    <ExternalReferenceKey>{47}</ExternalReferenceKey>
+    <ExternalReferenceKey>{48}</ExternalReferenceKey>
+    <Property name="X" value="X" />
+    <Property name="X" value="X" />
+  </HP_ISEECustomer>
+  <HP_ISEEPerson>
+    <Caption></Caption>
+    <Description></Description>
+    <ElementName></ElementName>
+    <DirtyFlag>0</DirtyFlag>
+    <PRSUniqueName></PRSUniqueName>
+    <CommunicationMode>0</CommunicationMode>
+    <ContactType>Customer_Account</ContactType>
+    <FirstName>{70}</FirstName>
+    <LastName>{71}</LastName>
+    <Salutation></Salutation>
+    <Title></Title>
+    <EmailAddress>{72}</EmailAddress>
+    <TelephoneNumber>{73}</TelephoneNumber>
+    <PreferredLanguage></PreferredLanguage>
+    <Availability></Availability>
+    <ExternalReferenceSystem></ExternalReferenceSystem>
+    <ExternalReferenceSystem></ExternalReferenceSystem>
+    <ExternalReferenceKey></ExternalReferenceKey>
+    <ExternalReferenceKey></ExternalReferenceKey>
+    <Property name="X" value="X" />
+    <Property name="X" value="X" />
+  </HP_ISEEPerson>
+  <HP_ISEEPerson>
+    <Caption></Caption>
+    <Description></Description>
+    <ElementName></ElementName>
+    <DirtyFlag>0</DirtyFlag>
+    <PRSUniqueName></PRSUniqueName>
+    <CommunicationMode>0</CommunicationMode>
+    <ContactType>Cust_Secondary_Acct</ContactType>
+    <FirstName>{74}</FirstName>
+    <LastName>{75}</LastName>
+    <Salutation></Salutation>
+    <Title></Title>
+    <EmailAddress>{76}</EmailAddress>
+    <TelephoneNumber>{77}</TelephoneNumber>
+    <PreferredLanguage></PreferredLanguage>
+    <Availability></Availability>
+    <ExternalReferenceSystem></ExternalReferenceSystem>
+    <ExternalReferenceSystem></ExternalReferenceSystem>
+    <ExternalReferenceKey></ExternalReferenceKey>
+    <ExternalReferenceKey></ExternalReferenceKey>
+    <Property name="X" value="X" />
+    <Property name="X" value="X" />
+  </HP_ISEEPerson>
+  <CIM />
+</isee:ISEE-Registration>

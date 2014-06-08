@@ -1,0 +1,131 @@
+﻿<isee:ISEE-Registration xmlns:isee="http://www.hp.com/schemas/isee/5.00/event">
+  <RegistrationSource>
+    <ObjectOfServiceProperties>
+      <Property value="0" name="CPServiceProviderID"/>
+      <Property value="0" name="CPSupportProviderID"/>
+    </ObjectOfServiceProperties>
+    <PRS_Address>
+      <Caption></Caption>
+      <Description></Description>
+      <ElementName></ElementName>
+      <DirtyFlag>1</DirtyFlag>
+      <PRSUniqueName></PRSUniqueName>
+      <AddressType>0</AddressType>
+      <Address1>{12}</Address1>
+      <Address2></Address2>
+      <Address3></Address3>
+      <Address4></Address4>
+      <City>{13}</City>
+      <Region>{14}</Region>
+      <PostalCode>{15}</PostalCode>
+      <TimeZone>{16}</TimeZone>
+      <Country>{17}</Country>
+    </PRS_Address>
+    <HP_OOSIdentifiers>
+      <CSID>
+        <Section name="SYSTEM_IDENTIFIERS">
+          <Property name="AutoDetectedSystemSerialNumber" value="{0}" />
+          <Property name="UserApprovedSystemSerialNumber" value="" />
+          <Property name="TimestampGenerated" value="{1}" />
+          <Property name="CollectorType" value="InsightRS" />
+          <Property name="CollectorVersion" value="1.2" />
+          <Property name="ProductId" value="{2}" />
+          <Property name="SAID" value="{9}"/>
+          <Property name="SystemModel" value="{3}"/>
+          <Property name="CoreSystemModel" value="{4}"/>
+          <Property name="Manufacturer" value="HP"/>
+          <Property name="Hostname" value="{5}"/>
+          <Property name="FQDN" value="{6}"/>
+          <Property name="IPAddress" value="{7}"/>
+          <Property name="MacAddress" value="{10}" />
+          <Property name="HPID" value="{8}"/>
+          <Property name="SPID" value="-1"/>
+          <Property name="ISEEGUID" value=""/>
+          <Property name="SystemIdent" value="" />
+          <Property name="GUID" value="" />
+          <Property name="OSNameAndVersionString" value="{11}"/>
+        </Section>
+      </CSID>
+    </HP_OOSIdentifiers>
+    <HP_ISEEEntitlementParameters type="X" priority="0">
+      <EntitlementType>{18}</EntitlementType>
+      <EntitlementId>{19}</EntitlementId>
+      <SerialNumber>{20}</SerialNumber>
+      <ProductNumber>{21}</ProductNumber>
+      <ProductId>{22}</ProductId>
+      <ObligationId>YYY</ObligationId>
+    </HP_ISEEEntitlementParameters>
+    <CIM_SoftwareFeature>
+      <Caption>HP RemoteSupport Data Collection Service Profile</Caption>
+      <Description>Instant Support Enterprise Edition</Description>
+      <InstallDate>2012-04-20T18:51:41+10:00</InstallDate>
+      <Name>ServerBasicConfigurationCollection_V05.70.00</Name>
+      <StatusDescriptors/>
+      <IdentifyingNumber/>
+      <ProductName>ServerBasicConfigurationCollection_V05.70.00</ProductName>
+      <Vendor>Hewlett-Packard</Vendor>
+      <Version>ServerBasicConfigurationCollection_V05.70.00</Version>
+    </CIM_SoftwareFeature>
+  </RegistrationSource>
+  <HP_ISEECustomer>
+    <Caption>YYY</Caption>
+    <Description>YYY</Description>
+    <ElementName>YYY</ElementName>
+    <DirtyFlag>0</DirtyFlag>
+    <PRSUniqueName>YYY</PRSUniqueName>
+    <Business>{23}</Business>
+    <Name>{24}</Name>
+    <ExternalReferenceSystem>YYY</ExternalReferenceSystem>
+    <ExternalReferenceSystem>YYY</ExternalReferenceSystem>
+    <ExternalReferenceKey>YYY</ExternalReferenceKey>
+    <ExternalReferenceKey>YYY</ExternalReferenceKey>
+    <Property name="X" value="X" />
+    <Property name="X" value="X" />
+  </HP_ISEECustomer>
+  <HP_ISEEPerson>
+    <Caption></Caption>
+    <Description></Description>
+    <ElementName></ElementName>
+    <DirtyFlag>0</DirtyFlag>
+    <PRSUniqueName></PRSUniqueName>
+    <CommunicationMode>0</CommunicationMode>
+    <ContactType>Customer_Account</ContactType>
+    <FirstName>{25}</FirstName>
+    <LastName>{26}</LastName>
+    <Salutation></Salutation>
+    <Title></Title>
+    <EmailAddress>{27}</EmailAddress>
+    <TelephoneNumber>{28}</TelephoneNumber>
+    <PreferredLanguage></PreferredLanguage>
+    <Availability></Availability>
+    <ExternalReferenceSystem></ExternalReferenceSystem>
+    <ExternalReferenceSystem></ExternalReferenceSystem>
+    <ExternalReferenceKey></ExternalReferenceKey>
+    <ExternalReferenceKey></ExternalReferenceKey>
+    <Property name="X" value="X" />
+    <Property name="X" value="X" />
+  </HP_ISEEPerson>
+  <HP_ISEEPerson>
+    <Caption></Caption>
+    <Description></Description>
+    <ElementName></ElementName>
+    <DirtyFlag>0</DirtyFlag>
+    <PRSUniqueName></PRSUniqueName>
+    <CommunicationMode>0</CommunicationMode>
+    <ContactType>Cust_Secondary_Acct</ContactType>
+    <FirstName>{29}</FirstName>
+    <LastName>{30}</LastName>
+    <Salutation></Salutation>
+    <Title></Title>
+    <EmailAddress>{31}</EmailAddress>
+    <TelephoneNumber>{32}</TelephoneNumber>
+    <PreferredLanguage></PreferredLanguage>
+    <Availability></Availability>
+    <ExternalReferenceSystem></ExternalReferenceSystem>
+    <ExternalReferenceSystem></ExternalReferenceSystem>
+    <ExternalReferenceKey></ExternalReferenceKey>
+    <ExternalReferenceKey></ExternalReferenceKey>
+    <Property name="X" value="X" />
+    <Property name="X" value="X" />
+  </HP_ISEEPerson>
+</isee:ISEE-Registration>

@@ -1,0 +1,5 @@
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.UI\bin\HP.TS.Devops.UI.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.UI\bin\HP.TS.Devops.UI.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.UI\obj\Debug\HP.TS.Devops.UI.csprojResolveAssemblyReference.cache
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.UI\obj\Debug\HP.TS.Devops.UI.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.UI\obj\Debug\HP.TS.Devops.UI.pdb

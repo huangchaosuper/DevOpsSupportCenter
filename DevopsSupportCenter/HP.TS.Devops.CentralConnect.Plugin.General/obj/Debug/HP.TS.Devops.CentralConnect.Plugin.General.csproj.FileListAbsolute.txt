@@ -1,0 +1,9 @@
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect.Plugin.General\bin\Debug\HP.TS.Devops.CentralConnect.Plugin.General.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect.Plugin.General\bin\Debug\HP.TS.Devops.CentralConnect.Plugin.General.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect.Plugin.General\bin\Debug\HP.TS.Devops.CentralConnect.Plugin.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect.Plugin.General\bin\Debug\HP.TS.Devops.CentralConnect.Plugin.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect.Plugin.General\obj\Debug\HP.TS.Devops.CentralConnect.Plugin.General.csprojResolveAssemblyReference.cache
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect.Plugin.General\obj\Debug\HP.TS.Devops.CentralConnect.Plugin.General.csproj.GenerateResource.Cache
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect.Plugin.General\obj\Debug\HP.TS.Devops.CentralConnect.Plugin.General.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect.Plugin.General\obj\Debug\HP.TS.Devops.CentralConnect.Plugin.General.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect.Plugin.General\obj\Debug\HP.TS.Devops.CentralConnect.Plugin.General.Resources.Metrics.Metrics.resources

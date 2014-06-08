@@ -1,0 +1,4 @@
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Core\bin\Debug\HP.TS.Devops.Core.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Core\bin\Debug\HP.TS.Devops.Core.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Core\obj\Debug\HP.TS.Devops.Core.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Core\obj\Debug\HP.TS.Devops.Core.pdb

@@ -1,0 +1,9 @@
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Security\bin\Debug\HP.TS.Devops.Security.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Security\bin\Debug\HP.TS.Devops.Security.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Security\bin\Debug\HP.TS.Devops.Core.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Security\bin\Debug\HP.TS.Devops.Dictionary.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Security\bin\Debug\HP.TS.Devops.Core.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Security\bin\Debug\HP.TS.Devops.Dictionary.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Security\obj\Debug\HP.TS.Devops.Security.csprojResolveAssemblyReference.cache
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Security\obj\Debug\HP.TS.Devops.Security.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.Security\obj\Debug\HP.TS.Devops.Security.pdb

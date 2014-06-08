@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="HP.TS.Devops.Service.DirectConnectService" CodeBehind="DirectConnectService.svc.cs" %>

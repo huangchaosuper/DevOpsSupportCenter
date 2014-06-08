@@ -1,0 +1,112 @@
+﻿<isee:OOS-Metrics schemaVersion="5.00" xmlns:cim="http://schemas.dmtf.org/wsman/2004/10/base" xmlns:hpcim="http://www.hp.com/schemas/cim/2.9" xmlns:isee="http://www.hp.com/schemas/isee/5.00/metrics" xmlns:rsps="http://www.hp.com/schemas/rsps/5.00" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <LDID state="updated"></LDID>
+
+  <AssociatedDevice role="Hosting Device">
+    <ObjectOfServiceProperties>
+      <Property name="Transport_Enabled" value="1"/>
+      <Property name="Active_Status" value="1"/>
+      <Property name="Registration_Date" value=""/>
+      <Property name="CPServiceProviderID" value="0"/>
+      <Property name="CPSupportProviderID" value="0"/>
+      <Property name="ServiceHealth.Monitoring" value="0"/>
+
+      <Property name="Service::Server_Basic_Configuration_Collection::DisplayColumn" value="Basic_Collection"/>
+      <Property name="Service::Server_Basic_Configuration_Collection::functional" value="true"/>
+      <Property name="Service::Server_Basic_Configuration_Collection::eligible" value="true"/>
+      <Property name="Service::Server_Basic_Configuration_Collection::entitled" value="true"/>
+      <Property name="Service::Server_Basic_Configuration_Collection::enabled" value="true"/>
+
+      <Property name="Service::Query Connection::DisplayColumn" value="Monitoring"/>
+      <Property name="Service::Query Connection::functional" value="true"/>
+      <Property name="Service::Query Connection::eligible" value="true"/>
+      <Property name="Service::Query Connection::entitled" value="true"/>
+      <Property name="Service::Query Connection::enabled" value="true"/>
+
+      <Property name="Service::Subscription Manager::DisplayColumn" value="Monitoring"/>
+      <Property name="Service::Subscription Manager::functional" value="true"/>
+      <Property name="Service::Subscription Manager::eligible" value="true"/>
+      <Property name="Service::Subscription Manager::entitled" value="true"/>
+      <Property name="Service::Subscription Manager::enabled" value="true"/>
+
+    </ObjectOfServiceProperties>
+    <PRS_Address>
+      <AddressType>0</AddressType>
+      <Address1></Address1>
+      <Address2></Address2>
+      <Address3></Address3>
+      <Address4></Address4>
+      <City></City>
+      <Region></Region>
+      <PostalCode></PostalCode>
+      <TimeZone>GMT</TimeZone>
+      <Country></Country>
+    </PRS_Address>
+    <HP_ISEEPerson>
+      <CommunicationMode>255</CommunicationMode>
+      <ContactType>Customer_Account</ContactType>
+      <FirstName>{{PrimaryFirstName}}</FirstName>
+      <LastName>{{PrimaryLastName}}</LastName>
+      <Salutation />
+      <Title />
+      <EmailAddress>{{PrimaryEmailAddress}}</EmailAddress>
+      <TelephoneNumber>{{PrimaryPhone}}</TelephoneNumber>
+      <PreferredLanguage />
+      <Availability />
+    </HP_ISEEPerson>
+    <HP_ISEEPerson>
+      <CommunicationMode>255</CommunicationMode>
+      <ContactType>Cust_Secondary_Acct</ContactType>
+      <FirstName>{{SecondaryFirstName}}</FirstName>
+      <LastName>{{SecondaryLastName}}</LastName>
+      <Salutation />
+      <Title />
+      <EmailAddress>{{SecondaryEmailAddress}}</EmailAddress>
+      <TelephoneNumber>{{SecondaryPhone}}</TelephoneNumber>
+      <PreferredLanguage />
+      <Availability />
+    </HP_ISEEPerson>
+    <HP_OOSIdentifiers>
+      <CSID>
+        <Section name="SYSTEM_IDENTIFIERS">
+          <Property name="AutoDetectedSystemSerialNumber" value="" />
+          <Property name="UserApprovedSystemSerialNumber" value="" />
+          <Property name="TimestampGenerated" value="" />
+          <Property name="CollectorType" value="InsightRS" />
+          <Property name="CollectorVersion" value="1.2" />
+          <Property name="ProductId" value="" />
+          <Property name="SAID" value="" />
+          <Property name="SystemModel" value="" />
+          <Property name="CoreSystemModel" value="" />
+          <Property name="Manufacturer" value="HP" />
+          <Property name="Hostname" value="" />
+          <Property name="FQDN" value="" />
+          <Property name="IPAddress" value="" />
+          <Property name="MacAddress" value="" />
+          <Property name="HPID" value="" />
+          <Property name="SPID" value="-1" />
+          <Property name="ISEEGUID" value="" />
+          <Property name="SystemIdent" value="" />
+          <Property name="GUID" value="" />
+          <Property name="OSNameAndVersionString" value="" />
+        </Section>
+      </CSID>
+    </HP_OOSIdentifiers>
+    <HP_ISEEEntitlementParameters>
+      <EntitlementType></EntitlementType>
+      <EntitlementId></EntitlementId>
+      <SerialNumber></SerialNumber>
+      <ProductNumber></ProductNumber>
+      <ProductId></ProductId>
+      <ObligationId></ObligationId>
+    </HP_ISEEEntitlementParameters>
+  </AssociatedDevice>
+
+  <HP_ISEECustomer>
+    <Business/>
+    <Name></Name>
+  </HP_ISEECustomer>
+
+  <OOS_Support/>
+
+</isee:OOS-Metrics>

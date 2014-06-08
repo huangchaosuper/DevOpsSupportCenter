@@ -1,0 +1,5 @@
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect.Plugin\bin\Debug\HP.TS.Devops.CentralConnect.Plugin.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect.Plugin\bin\Debug\HP.TS.Devops.CentralConnect.Plugin.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect.Plugin\obj\Debug\HP.TS.Devops.CentralConnect.Plugin.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect.Plugin\obj\Debug\HP.TS.Devops.CentralConnect.Plugin.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\HP.TS.Devops.CentralConnect.Plugin\obj\Debug\HP.TS.Devops.CentralConnect.Plugin.csprojResolveAssemblyReference.cache

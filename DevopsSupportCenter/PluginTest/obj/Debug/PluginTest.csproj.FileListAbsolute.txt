@@ -1,0 +1,4 @@
+D:\Crazywolf\Devops\DevopsSupportCenter\PluginTest\bin\Debug\PluginTest.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\PluginTest\bin\Debug\PluginTest.pdb
+D:\Crazywolf\Devops\DevopsSupportCenter\PluginTest\obj\Debug\PluginTest.dll
+D:\Crazywolf\Devops\DevopsSupportCenter\PluginTest\obj\Debug\PluginTest.pdb
